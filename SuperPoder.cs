@@ -10,7 +10,7 @@ namespace EjercicioClase
     {
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
-        public string Nivel { get; set; }
+        public int Nivel { get; set; }
 
 
     }
